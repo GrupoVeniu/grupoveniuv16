@@ -16,7 +16,8 @@
         <field name= "model">purchase.order </field>
         <field name= "arch" type="xml">
             <search>
-                <field name="motivo_de_uso" />
+                <field name="variable" />
             </search>
+        </field>
     </record>
 </odoo>
