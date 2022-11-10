@@ -6,7 +6,7 @@
         <field name="inherit_id" ref="purchase.order.form" />
         <field name="arch" type="xml">
             <xpath expr="//field[@name='date_planned']" position="after">
-                <field name="date_of_product"/>
+                <field name="motivo_de_uso"/>
             </xpath>
         </field>
     </record>
