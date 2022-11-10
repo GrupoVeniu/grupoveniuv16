@@ -11,7 +11,7 @@
         </field>
     </record>
 
-    <record id="filtro_motivo_uso" model="ir.ui.view">
+    <!-- <record id="filtro_motivo_uso" model="ir.ui.view">
         <field name= "name">filtro.motivo.uso</field>
         <field name= "model">purchase.order </field>
         <field name= "arch" type="xml">
@@ -19,5 +19,5 @@
                 <field name="motivo_de_uso" />
             </search>
         </field>
-    </record>
+    </record> -->
 </odoo>
