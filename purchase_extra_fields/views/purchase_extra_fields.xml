@@ -5,7 +5,7 @@
         <field name="model">purchase.order</field>
         <field name="inherit_id" ref="purchase.order.form" />
         <field name="arch" type="xml">
-            <xpath expr="//field[@name='date_planned']" position="after">
+            <xpath expr="//div[@name='date_approve']" position="after">
                 <field name="motivo_de_uso"/>
             </xpath>
         </field>
