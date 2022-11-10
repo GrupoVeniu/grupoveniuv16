@@ -1,0 +1,73 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* sh_customer_extra_fields
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 15.1alpha1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-09-22 07:41+0000\n"
+"PO-Revision-Date: 2021-09-22 07:41+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: sh_customer_extra_fields
+#: model:ir.model,name:sh_customer_extra_fields.model_res_partner
+msgid "Contact"
+msgstr "Kontakt"
+
+#. module: sh_customer_extra_fields
+#: model:ir.model.fields,field_description:sh_customer_extra_fields.field_res_partner__date_of_birth
+#: model:ir.model.fields,field_description:sh_customer_extra_fields.field_res_users__date_of_birth
+msgid "Date Of Birth"
+msgstr "Geburtsdatum"
+
+#. module: sh_customer_extra_fields
+#: model:ir.model.fields,field_description:sh_customer_extra_fields.field_res_partner__department
+#: model:ir.model.fields,field_description:sh_customer_extra_fields.field_res_users__department
+msgid "Department"
+msgstr "Abteilung"
+
+#. module: sh_customer_extra_fields
+#: model_terms:ir.ui.view,arch_db:sh_customer_extra_fields.sh_contact_extra_fields_form
+msgid "Extra Email"
+msgstr "Zusätzliche E-Mail"
+
+#. module: sh_customer_extra_fields
+#: model_terms:ir.ui.view,arch_db:sh_customer_extra_fields.sh_contact_extra_fields_form
+msgid "Extra Phone"
+msgstr "Zusätzliches Telefon"
+
+#. module: sh_customer_extra_fields
+#: model:ir.model.fields,field_description:sh_customer_extra_fields.field_res_partner__fax
+#: model:ir.model.fields,field_description:sh_customer_extra_fields.field_res_users__fax
+msgid "Fax"
+msgstr "Fax"
+
+#. module: sh_customer_extra_fields
+#: model:ir.model.fields,field_description:sh_customer_extra_fields.field_res_partner__home_phone
+#: model:ir.model.fields,field_description:sh_customer_extra_fields.field_res_users__home_phone
+msgid "Home Phone"
+msgstr "Festnetztelefon"
+
+#. module: sh_customer_extra_fields
+#: model:ir.model.fields,field_description:sh_customer_extra_fields.field_res_partner__other_phone
+#: model:ir.model.fields,field_description:sh_customer_extra_fields.field_res_users__other_phone
+msgid "Other Phone"
+msgstr "Anderes Handy"
+
+#. module: sh_customer_extra_fields
+#: model:ir.model.fields,field_description:sh_customer_extra_fields.field_res_partner__secondary_email
+#: model:ir.model.fields,field_description:sh_customer_extra_fields.field_res_users__secondary_email
+msgid "Secondary Email"
+msgstr "Alternative Email"
+
+#. module: sh_customer_extra_fields
+#: model:ir.model.fields,field_description:sh_customer_extra_fields.field_res_partner__skype
+#: model:ir.model.fields,field_description:sh_customer_extra_fields.field_res_users__skype
+msgid "Skype"
+msgstr "Skype"
