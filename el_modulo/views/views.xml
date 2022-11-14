@@ -1,6 +1,6 @@
 <odoo>
   <data>
-    <!-- explicit list view definition -->
+    <!-- explicit list view definition
 
     <record model="ir.ui.view" id="my_module.list">
       <field name="name">my_module list</field>
@@ -37,7 +37,7 @@
           "res_model": model._name,
         }
       </field>
-    </record>
+    </record> -->
 
 
     <!-- Top menu item -->
